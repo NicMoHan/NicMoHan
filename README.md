@@ -1,6 +1,4 @@
-
-
-<div style="text-align: center; font-size: 4em; font-weight: bold;">
+<div style="text-align: center; font-size: 8em; font-weight: bold;">
   Hello, I am Nicolas 👋
 </div>
 
