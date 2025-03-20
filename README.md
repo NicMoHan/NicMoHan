@@ -1,8 +1,7 @@
 
 
-<p align="center">
-  <strong><h4>Hello, I am Nicolas 👋</h4></strong>
-</p>
+<h4 style="text-align: center; font-size: 3em; font-weight: bold;">Hello, I am Nicolas 👋</h4>
+
 
 <hr>
 
