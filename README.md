@@ -2,9 +2,10 @@
   Hello, I am Nicolas 👋
 </div>
 <hr>
-<div style="text-align: center; font-size: 8em; font-weight: bold;">
+<div style="text-align: center; font-size: 4em; font-weight: bold;">
   A passionate Data Analyst
 </div>
+
 
 <p align="center">
   <img src="https://github.com/NicMoHan/NicMoHan/blob/main/Hey%20Arnold%2090S%20GIF.gif?raw=true" width="800" alt="Arnold Surfer">
