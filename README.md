@@ -1,12 +1,15 @@
 <div style="text-align: center; font-size: 8em; font-weight: bold;">
   Hello, I am Nicolas 👋
 </div>
-
 <hr>
+<div style="text-align: center; font-size: 8em; font-weight: bold;">
+  A passionate Data Analyst
+</div>
 
 <p align="center">
   <img src="https://github.com/NicMoHan/NicMoHan/blob/main/Hey%20Arnold%2090S%20GIF.gif?raw=true" width="800" alt="Arnold Surfer">
 </p>
+
 
 
  👀 I’m interested in Python, SQL, R, and improving pipelines
