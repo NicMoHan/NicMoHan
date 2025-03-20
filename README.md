@@ -1,6 +1,15 @@
-## 👋 Hi, I’m Nicolas 
 
-<img src="https://github.com/NicMoHan/NicMoHan/blob/main/Hey%20Arnold%2090S%20GIF.gif?raw=true" width="800" alt="Arnold Surfer">
+
+<p align="center">
+  <strong><h4>Hello, I am Nicolas 👋</h4></strong>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/NicMoHan/NicMoHan/blob/main/Hey%20Arnold%2090S%20GIF.gif?raw=true" width="800" alt="Arnold Surfer">
+</p>
+
 
  👀 I’m interested in Python, SQL, R, and improving pipelines
  🌱 I’m currently improving my Python
