@@ -13,22 +13,22 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/nicolas-mora-hansen-0b8a1237" target="_blank">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/linkedin.svg" alt="LinkedIn" width="30" height="30" style="fill:white;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   
   <!-- Discord -->
   <a href="https://discord.com/users/nicomh5172" target="_blank">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/discord.svg" alt="Discord" width="30" height="30" style="fill:white;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Discord_logo.svg" alt="Discord" width="30" height="30" />
   </a>
   
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/nicolasmorahansen" target="_blank">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/kaggle.svg" alt="Kaggle" width="30" height="30" style="fill:white;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Kaggle_logo.svg" alt="Kaggle" width="30" height="30" />
   </a>
 
   <!-- Portfolio -->
   <a href="https://datascienceportfol.io/nicolashan" target="_blank">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/codepen.svg" alt="Portfolio" width="30" height="30" style="fill:white;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CodePen_logo.svg" alt="Portfolio" width="30" height="30">
   </a>
 </p>
 
@@ -42,7 +42,7 @@
   
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/tableau.svg" alt="Tableau" width="50" height="50" style="fill:white;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tableau_Logo.svg" alt="Tableau" width="50" height="50" />
   </a>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -50,7 +50,7 @@
   
   <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/microsoft.svg" alt="Excel" width="50" height="50" style="fill:white;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo.svg" alt="Excel" width="50" height="50" />
   </a>
 </p>
 
