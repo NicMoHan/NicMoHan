@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 7em; font-weight: bold; margin-bottom: 10px;">Hello, I am Nicolas 👋</h1>
-  <hr style="width: 60%; border: 1px solid lightgray; margin: 10px auto;">
+  <hr style="width: 60%; border: 0.5px solid lightgray; margin: 10px auto;">
   <h2 style="font-size: 4em; font-weight: normal; margin-top: 10px;">A passionate Data Analyst</h2>
 </div>
 
