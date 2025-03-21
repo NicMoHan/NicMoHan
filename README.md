@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: center; max-width: 800px; margin: auto;">
   <h1 style="font-size: 8em; margin-bottom: 0;">Hello, I am Nicolas 👋</h1>
   <hr style="width: 60%; margin: 10px auto; border: 1px solid lightgray;">
   <h2 style="font-size: 4.8em; font-weight: lighter; margin-top: 0;">A passionate Data Analyst</h2>
