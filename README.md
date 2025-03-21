@@ -12,15 +12,16 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/nicolas-mora-hansen-0b8a1237" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="30" height="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   <a href="https://discord.com/users/nicomh5172" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Discord_logo.svg" alt="Discord" width="30" height="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Discord_logo.svg" alt="Discord" width="30" height="30" />
   </a>
   <a href="https://www.kaggle.com/nicolasmorahansen" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Kaggle_logo.svg" alt="Kaggle" width="30" height="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Kaggle_logo.svg" alt="Kaggle" width="30" height="30" />
   </a>
 </p>
+
   <a href="https://datascienceportfol.io/nicolashan" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio">
   </a>
