@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-size: 7em; font-weight: bold; margin-bottom: 10px;">Hello, I am Nicolas 👋</h1>
   <div style="width: 60%; height: 1px; background-color: lightgray; margin: 10px auto;"></div>
-  <h2 style="font-size: 4em; font-weight: normal; margin-top: 10px;">A passionate Data Analyst</h2>
+  <h2 style="font-size: 4em; font-weight: normal; margin-top: 10px; border-bottom: none;">A passionate Data Analyst</h2>
 </div>
 
 <p align="center">
