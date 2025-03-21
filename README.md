@@ -13,22 +13,22 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/nicolas-mora-hansen-0b8a1237" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(100%)" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/linkedin.svg" alt="LinkedIn" width="30" height="30" style="fill:white;"/>
   </a>
   
   <!-- Discord -->
   <a href="https://discord.com/users/nicomh5172" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" alt="Discord" width="30" height="30" style="filter: invert(100%)" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/discord.svg" alt="Discord" width="30" height="30" style="fill:white;"/>
   </a>
   
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/nicolasmorahansen" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kaggle.svg" alt="Kaggle" width="30" height="30" style="filter: invert(100%)" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/kaggle.svg" alt="Kaggle" width="30" height="30" style="fill:white;"/>
   </a>
 
   <!-- Portfolio -->
   <a href="https://datascienceportfol.io/nicolashan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" alt="Portfolio" width="30" height="30" style="filter: invert(100%)">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/codepen.svg" alt="Portfolio" width="30" height="30" style="fill:white;">
   </a>
 </p>
 
@@ -42,7 +42,7 @@
   
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tableau.svg" alt="Tableau" width="50" height="50" style="filter: invert(100%)" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/tableau.svg" alt="Tableau" width="50" height="50" style="fill:white;"/>
   </a>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -50,7 +50,7 @@
   
   <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftexcel.svg" alt="Excel" width="50" height="50" style="filter: invert(100%)" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/microsoft.svg" alt="Excel" width="50" height="50" style="fill:white;"/>
   </a>
 </p>
 
