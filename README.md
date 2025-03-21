@@ -8,8 +8,39 @@
   <img src="https://github.com/NicMoHan/NicMoHan/blob/main/Hey%20Arnold%2090S%20GIF.gif?raw=true" width="800" alt="Arnold Surfer">
 </p>
 
-👀 I’m interested in Python, SQL, R, and improving pipelines  
-🌱 I’m currently improving my Python  
-💞️ I’m looking to collaborate on scraping, cleaning, normalizing, transforming, and analyzing datasets  
+## Connect with me:
+
+## Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/nicolas-mora-hansen-0b8a1237" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discord.com/users/nicomh5172" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.kaggle.com/nicolasmorahansen" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://datascienceportfol.io/nicolashan" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
+</p>
+
+
+
 📫 How to reach me: email <a href="mailto:nicomh@gmail.com">nicomh@gmail.com</a>  
-⚡ Fun fact: I'm loving Python  
+⚡ Fun fact: I'm loving databases and surfing!  
