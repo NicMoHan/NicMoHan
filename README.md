@@ -13,12 +13,12 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/nicolas-mora-hansen-0b8a1237" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   
   <!-- Discord -->
-  <a href="https://discord.com/users/nicomh5172" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Discord_logo.svg" alt="Discord" width="30" height="30" />
+  <a href="https://discord.gg/nicomh5172" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" height="30" />
   </a>
   
   <!-- Kaggle -->
