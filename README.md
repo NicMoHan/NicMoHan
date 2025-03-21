@@ -28,7 +28,7 @@
 
   <!-- Portfolio -->
   <a href="https://datascienceportfol.io/nicolashan" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CodePen_logo.svg" alt="Portfolio" width="30" height="30">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" width="130" height="30">
   </a>
 </p>
 
@@ -40,17 +40,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="50" height="50"/>
   
-  <!-- Tableau -->
+  <!-- Tableau (cheap icon) -->
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tableau_Logo.svg" alt="Tableau" width="50" height="50" />
+    <img src="https://img.shields.io/badge/Tableau-0076D2?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" width="50" height="50" />
   </a>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   
-  <!-- Excel -->
+  <!-- Excel (cheap icon) -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo.svg" alt="Excel" width="50" height="50" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="50" height="50" />
   </a>
 </p>
 
