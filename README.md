@@ -21,9 +21,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" height="30" />
   </a>
   
-  <!-- Kaggle -->
+  <!-- Kaggle (Fixed) -->
   <a href="https://www.kaggle.com/nicolasmorahansen" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Kaggle_logo.svg" alt="Kaggle" width="30" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kaggle_logo.svg" alt="Kaggle" width="30" height="30" />
   </a>
 
   <!-- Portfolio -->
@@ -40,17 +40,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="50" height="50"/>
   
-  <!-- Tableau (cheap icon) -->
+  <!-- Tableau (Better Icon) -->
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-0076D2?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Tableau_Logo_2020.svg" alt="Tableau" width="50" height="50" />
   </a>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   
-  <!-- Excel (cheap icon) -->
+  <!-- Excel (Better Icon) -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo.svg" alt="Excel" width="50" height="50" />
   </a>
 </p>
 
